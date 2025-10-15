@@ -17,23 +17,24 @@ const products = {
     images: [
       "https://m.media-amazon.com/images/I/71tWTWashCL._AC_SX679_.jpg",
       "https://m.media-amazon.com/images/I/71tWTWashCL._AC_SX679_.jpg",
-      "https://m.media-amazon.com/images/I/71tWTWashCL._AC_SX679_.jpg"
+      "https://m.media-amazon.com/images/I/71tWTWashCL._AC_SX679_.jpg",
     ],
     amazonUrl: "https://www.amazon.com/UPOWEX-Resistance-Whatafit-Exercise-Training/dp/B07DWSPQQY",
-    description: "Exercise bands with handles for men and women, ideal for fitness and strength training home gym equipment.",
+    description:
+      "Exercise bands with handles for men and women, ideal for fitness and strength training home gym equipment.",
     features: [
       "100% Natural Latex for durability",
       "5 resistance levels: 10, 20, 30, 40, 50 lbs",
       "Includes door anchor, handles, ankle straps, and carrying case",
       "Portable for home, gym, or outdoor use",
-      "Suitable for toning arms, shoulders, chest, glutes, and legs"
+      "Suitable for toning arms, shoulders, chest, glutes, and legs",
     ],
     specifications: {
       Material: "Natural Latex",
       "Resistance Levels": "5 (10, 20, 30, 40, 50 lbs)",
       Length: "40 inches",
-      Weight: "1.05 kg"
-    }
+      Weight: "1.05 kg",
+    },
   },
   "tribe-lifting-fabric-bands": {
     name: "Tribe Lifting Fabric Resistance Bands",
@@ -44,7 +45,7 @@ const products = {
     images: [
       "https://m.media-amazon.com/images/I/91td0WAbhHL._AC_SX679_.jpg",
       "https://m.media-amazon.com/images/I/91td0WAbhHL._AC_SX679_.jpg",
-      "https://m.media-amazon.com/images/I/91td0WAbhHL._AC_SX679_.jpg"
+      "https://m.media-amazon.com/images/I/91td0WAbhHL._AC_SX679_.jpg",
     ],
     amazonUrl: "https://www.amazon.com/Fabric-Resistance-Loop-Bands-Shoulders/dp/B07WQLDKN2",
     description: "Thick booty bands for squats, lunges, hip training, physical therapy, and home workouts.",
@@ -53,14 +54,14 @@ const products = {
       "5 resistance levels from light to extra heavy",
       "Non-slip design stays in place during exercises",
       "Portable and lightweight for travel",
-      "Ideal for glute activation and lower body workouts"
+      "Ideal for glute activation and lower body workouts",
     ],
     specifications: {
       Material: "Fabric & Latex Blend",
       "Resistance Levels": "5 (Light to Extra Heavy)",
       Circumference: "Not specified",
-      Weight: "0.46 lbs"
-    }
+      Weight: "0.46 lbs",
+    },
   },
   "vergali-booty-bands": {
     name: "Vergali Resistance Bands for Working Out",
@@ -71,7 +72,7 @@ const products = {
     images: [
       "https://m.media-amazon.com/images/I/91UnDO-XhlL._AC_SX679_.jpg",
       "https://m.media-amazon.com/images/I/91UnDO-XhlL._AC_SX679_.jpg",
-      "https://m.media-amazon.com/images/I/91UnDO-XhlL._AC_SX679_.jpg"
+      "https://m.media-amazon.com/images/I/91UnDO-XhlL._AC_SX679_.jpg",
     ],
     amazonUrl: "https://www.amazon.com/Vergali-Resistance-Resistant-Training-Exercise/dp/B088396TM2",
     description: "Fabric elastic bands for exercise, perfect for legs, hips, thighs, and glutes with workout guide.",
@@ -80,14 +81,14 @@ const products = {
       "4 resistance levels for all fitness levels",
       "Includes carry bag and printed training guide",
       "Comfortable on bare skin without pinching",
-      "Online training videos for exercise guidance"
+      "Online training videos for exercise guidance",
     ],
     specifications: {
       Material: "Cotton & Latex Blend",
       "Resistance Levels": "4 (Light to Heavy)",
       Circumference: "Not specified",
-      Weight: "Not specified"
-    }
+      Weight: "Not specified",
+    },
   },
   "wsakoue-pull-up-bands": {
     name: "WSAKOUE Pull Up Assistance Bands",
@@ -98,7 +99,7 @@ const products = {
     images: [
       "https://m.media-amazon.com/images/I/71wwR5zim1L._AC_SX679_.jpg",
       "https://m.media-amazon.com/images/I/71wwR5zim1L._AC_SX679_.jpg",
-      "https://m.media-amazon.com/images/I/71wwR5zim1L._AC_SX679_.jpg"
+      "https://m.media-amazon.com/images/I/71wwR5zim1L._AC_SX679_.jpg",
     ],
     amazonUrl: "https://www.amazon.com/Resistance-Assistance-Exercise-Stretching-Physical/dp/B0CJM9FD8P",
     description: "Resistance bands set for body stretching, physical therapy, and muscle training.",
@@ -107,14 +108,14 @@ const products = {
       "Multiple resistance levels for all fitness levels",
       "Ideal for pull-up assistance, press-ups, and squats",
       "Portable with included storage bag",
-      "Suitable for Pilates, yoga, and calisthenics"
+      "Suitable for Pilates, yoga, and calisthenics",
     ],
     specifications: {
       Material: "Natural Latex",
       "Resistance Levels": "5 (Varying levels)",
       Length: "41 inches",
-      Weight: "1.01 kg"
-    }
+      Weight: "1.01 kg",
+    },
   },
   "leekey-resistance-bands": {
     name: "LEEKEY Resistance Bands Set",
@@ -125,7 +126,7 @@ const products = {
     images: [
       "https://m.media-amazon.com/images/I/61llicj0+gL._AC_SX679_.jpg",
       "https://m.media-amazon.com/images/I/61llicj0+gL._AC_SX679_.jpg",
-      "https://m.media-amazon.com/images/I/61llicj0+gL._AC_SX679_.jpg"
+      "https://m.media-amazon.com/images/I/61llicj0+gL._AC_SX679_.jpg",
     ],
     amazonUrl: "https://www.amazon.com/LEEKEY-Resistance-Band-Assist-Bands/dp/B07DR9BT5G",
     description: "Multi-level exercise bands for pull-up assistance, full-body training, and home workouts.",
@@ -134,14 +135,14 @@ const products = {
       "4 resistance levels: 15-125 lbs",
       "Durable natural latex material",
       "Portable with carry bag",
-      "Ideal for strength training and physical therapy"
+      "Ideal for strength training and physical therapy",
     ],
     specifications: {
       Material: "Natural Latex",
       "Resistance Levels": "4 (15-35, 25-65, 35-85, 50-125 lbs)",
       Length: "81.9 inches",
-      Weight: "0.01 oz (combined)"
-    }
+      Weight: "0.01 oz (combined)",
+    },
   },
   "leg-stretcher-band": {
     name: "Leg Stretcher Stretching Band",
@@ -152,7 +153,7 @@ const products = {
     images: [
       "https://m.media-amazon.com/images/I/71f3he0MS7L._SX522_.jpg",
       "https://m.media-amazon.com/images/I/71f3he0MS7L._SX522_.jpg",
-      "https://m.media-amazon.com/images/I/71f3he0MS7L._SX522_.jpg"
+      "https://m.media-amazon.com/images/I/71f3he0MS7L._SX522_.jpg",
     ],
     amazonUrl: "https://www.amazon.com/Stretcher-Stretching-Fasciitis-Achilles-Tendonitis-Hamstring/dp/B08JHZYQ7X",
     description: "For plantar fasciitis, Achilles tendonitis, hamstring stretching, and flexibility improvement.",
@@ -161,13 +162,14 @@ const products = {
       "Helps with plantar fasciitis and Achilles tendonitis",
       "Non-elastic for controlled stretching",
       "Portable and easy to use",
-      "Suitable for rehabilitation and flexibility"
+      "Suitable for rehabilitation and flexibility",
     ],
     specifications: {
       Material: "Not specified",
+      "Resistance Levels": "3 (Light to Heavy)",
       Length: "Not specified",
-      Weight: "Not specified"
-    }
+      Weight: "Not specified",
+    },
   },
   "theraband-resistance-bands": {
     name: "THERABAND Resistance Bands Set",
@@ -178,7 +180,7 @@ const products = {
     images: [
       "https://m.media-amazon.com/images/I/71XY3bDlSaL._AC_SX679_.jpg",
       "https://m.media-amazon.com/images/I/71XY3bDlSaL._AC_SX679_.jpg",
-      "https://m.media-amazon.com/images/I/71XY3bDlSaL._AC_SX679_.jpg"
+      "https://m.media-amazon.com/images/I/71XY3bDlSaL._AC_SX679_.jpg",
     ],
     amazonUrl: "https://www.amazon.com/Resistance-Exercise-Stretching-Strength-Flexbands/dp/B097JQYZR1",
     description: "Beginner kit for exercise, physical therapy, and strength training with non-latex elastic bands.",
@@ -187,15 +189,15 @@ const products = {
       "3 resistance levels: Yellow (3-4.3 lbs), Red (3.7-5.5 lbs), Green (4.6-6.7 lbs)",
       "Lightweight and portable for travel",
       "Ideal for Pilates, yoga, and physical therapy",
-      "Easy to clean after use"
+      "Easy to clean after use",
     ],
     specifications: {
       Material: "Non-Latex",
       "Resistance Levels": "3 (3-6.7 lbs)",
       Length: "5 feet",
       Width: "4 inches",
-      Weight: "Not specified"
-    }
+      Weight: "Not specified",
+    },
   },
   "theraband-professional-bands": {
     name: "THERABAND Professional Non-Latex Bands",
@@ -206,7 +208,7 @@ const products = {
     images: [
       "https://m.media-amazon.com/images/I/51qzaLPQ4GL._SX522_.jpg",
       "https://m.media-amazon.com/images/I/51qzaLPQ4GL._SX522_.jpg",
-      "https://m.media-amazon.com/images/I/51qzaLPQ4GL._SX522_.jpg"
+      "https://m.media-amazon.com/images/I/51qzaLPQ4GL._SX522_.jpg",
     ],
     amazonUrl: "https://www.amazon.com/TheraBand-Resistance-Professional-Non-Latex-Exercise/dp/B01A58FHQ8",
     description: "Elastic bands for upper and lower body fitness, exercise, and physical therapy.",
@@ -215,15 +217,15 @@ const products = {
       "3 resistance levels for beginner workouts",
       "Durable for repeated stretching",
       "Portable for home or clinical use",
-      "Trusted by physical therapists"
+      "Trusted by physical therapists",
     ],
     specifications: {
       Material: "Non-Latex",
       "Resistance Levels": "3 (Light to Medium)",
       Length: "5 feet",
       Width: "4 inches",
-      Weight: "Not specified"
-    }
+      Weight: "Not specified",
+    },
   },
   "resistance-training-bands": {
     name: "Resistance Training Exercise Bands",
@@ -234,7 +236,7 @@ const products = {
     images: [
       "https://m.media-amazon.com/images/I/61H92UQBURL._AC_SX679_.jpg",
       "https://m.media-amazon.com/images/I/61H92UQBURL._AC_SX679_.jpg",
-      "https://m.media-amazon.com/images/I/61H92UQBURL._AC_SX679_.jpg"
+      "https://m.media-amazon.com/images/I/61H92UQBURL._AC_SX679_.jpg",
     ],
     amazonUrl: "https://www.amazon.com/Resistance-Training-Exercise-Equipment-Stretching%EF%BC%883/dp/B0DDTZCDR9",
     description: "Set of 3 bands for stretching, exercise equipment, and full-body workouts.",
@@ -243,16 +245,15 @@ const products = {
       "3 resistance levels for versatility",
       "Portable for home or gym use",
       "Durable material for long-term use",
-      "Suitable for strength training and stretching"
+      "Suitable for strength training and stretching",
     ],
     specifications: {
       Material: "Not specified",
       "Resistance Levels": "3 (Light to Heavy)",
       Length: "Not specified",
-      Weight: "Not specified"
-    }
-  }
-};
+      Weight: "Not specified",
+    },
+  },
 }
 
 export default function ProductPage({ params }: { params: { slug: string } }) {
