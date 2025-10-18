@@ -33,14 +33,14 @@ export default function ContactPage() {
     {
       icon: Phone,
       title: "Call Us",
-      content: "+1 (555) 123-4567",
-      link: "tel:+15551234567",
+      content: "+1 606-336-3743",
+      link: "tel:+16063363743",
     },
     {
       icon: MapPin,
       title: "Visit Us",
-      content: "123 Fitness Ave, Los Angeles, CA 90001",
-      link: "https://maps.google.com",
+      content: "4777 May Street, Fort Worth, Texas 76150, United States",
+      link: "https://maps.google.com/?q=4777+May+Street+Fort+Worth+TX+76150",
     },
   ]
 

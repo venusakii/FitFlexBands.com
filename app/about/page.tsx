@@ -2,7 +2,6 @@
 
 import { motion } from "framer-motion"
 import { Header } from "@/components/header"
-import { Footer } from "@/components/footer"
 import { Target, Users, Award, Heart } from "lucide-react"
 import Image from "next/image"
 
@@ -36,19 +35,19 @@ export default function AboutPage() {
 
   const team = [
     {
-      name: "Sarah Johnson",
+      name: "Jessica Martinez",
       role: "Founder & CEO",
       image: "/fit-woman-outdoors.png",
       bio: "Former Olympic athlete with 15+ years in fitness industry",
     },
     {
-      name: "Mike Chen",
+      name: "David Thompson",
       role: "Head of Product",
       image: "/man-trainer.jpg",
       bio: "Biomechanics expert and certified strength coach",
     },
     {
-      name: "Emma Rodriguez",
+      name: "Olivia Bennett",
       role: "Community Manager",
       image: "/woman-doing-yoga.png",
       bio: "Yoga instructor and wellness advocate",
@@ -86,8 +85,8 @@ export default function AboutPage() {
             <div className="space-y-4 text-[#EAEAEA] leading-relaxed">
               <p>
                 FitFlexBands was born from a simple observation: traditional gym equipment is expensive, bulky, and
-                inaccessible to many people who want to stay fit. Our founder, Sarah Johnson, a former Olympic athlete,
-                experienced this firsthand while traveling for competitions.
+                inaccessible to many people who want to stay fit. Our founder, Jessica Martinez, a former Olympic
+                athlete, experienced this firsthand while traveling for competitions.
               </p>
               <p>
                 In 2019, she partnered with biomechanics experts and material scientists to create resistance bands that
@@ -146,8 +145,6 @@ export default function AboutPage() {
           </div>
         </div>
       </section>
-
-      <Footer />
     </div>
   )
 }
