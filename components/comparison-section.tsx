@@ -6,7 +6,6 @@ import { Check, X } from "lucide-react"
 const brands = [
   {
     name: "TheraBand",
-    price: "$24.99",
     quality: true,
     durability: true,
     grip: true,
@@ -15,7 +14,6 @@ const brands = [
   },
   {
     name: "Fit Simplify",
-    price: "$19.99",
     quality: true,
     durability: true,
     grip: false,
@@ -24,7 +22,6 @@ const brands = [
   },
   {
     name: "LetsFit",
-    price: "$15.99",
     quality: true,
     durability: false,
     grip: true,
@@ -33,7 +30,6 @@ const brands = [
   },
   {
     name: "Insonder",
-    price: "$12.99",
     quality: false,
     durability: false,
     grip: false,
@@ -60,7 +56,6 @@ export function ComparisonSection() {
             <thead>
               <tr className="border-b border-[#00FF7F]/20">
                 <th className="text-left p-4 font-sans font-semibold text-lg">Brand</th>
-                <th className="text-center p-4 font-sans font-semibold text-lg">Price</th>
                 <th className="text-center p-4 font-sans font-semibold text-lg">Quality</th>
                 <th className="text-center p-4 font-sans font-semibold text-lg">Durability</th>
                 <th className="text-center p-4 font-sans font-semibold text-lg">Grip</th>
@@ -84,7 +79,6 @@ export function ComparisonSection() {
                       <span className="ml-2 text-xs bg-[#00FF7F] text-[#0C0D0E] px-2 py-1 rounded">BEST</span>
                     )}
                   </td>
-                  <td className="text-center p-4 text-[#FFD166] font-semibold">{brand.price}</td>
                   <td className="text-center p-4">
                     {brand.quality ? (
                       <Check className="w-6 h-6 text-[#00FF7F] mx-auto" />

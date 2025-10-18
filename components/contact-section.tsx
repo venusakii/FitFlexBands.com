@@ -56,27 +56,7 @@ export function ContactSection() {
             </Button>
           </motion.form>
 
-          <motion.div
-            className="flex flex-col justify-center"
-            initial={{ opacity: 0, x: 30 }}
-            whileInView={{ opacity: 1, x: 0 }}
-            viewport={{ once: true }}
-          >
-            <h3 className="text-2xl font-sans font-semibold mb-6">Follow Us</h3>
-            <div className="flex gap-4">
-              {socials.map((social, index) => (
-                <motion.a
-                  key={index}
-                  href={social.href}
-                  className="w-14 h-14 rounded-full bg-[#1A1B1E] border border-[#00FF7F]/20 flex items-center justify-center hover:border-[#00FF7F] transition-colors"
-                  whileHover={{ scale: 1.1, rotate: 360 }}
-                  transition={{ duration: 0.3 }}
-                >
-                  <social.icon className="w-6 h-6 text-[#00FF7F]" />
-                </motion.a>
-              ))}
-            </div>
-          </motion.div>
+          
         </div>
       </div>
     </section>
